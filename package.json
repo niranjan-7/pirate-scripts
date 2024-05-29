@@ -1,0 +1,14 @@
+{
+  "name": "pirate-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pirate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "piratebay-scraper": "^4.0.0"
+  }
+}
